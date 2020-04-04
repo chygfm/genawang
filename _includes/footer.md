@@ -1,8 +1,9 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+欢迎光临{{ site.home }}
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+联系方式Email:{{ site.email }}
 &mdash;
+QQ:{{ site.qq }}
 this site is [open source]({{ site.source_link }})
 
